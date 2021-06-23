@@ -1,0 +1,3 @@
+Let name= ‘John’;
+Let admin= name;
+Alert (admin); // should show John
